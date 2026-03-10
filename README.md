@@ -10,7 +10,9 @@
 + and Unreal.
 +
 + Skills: JavaScript, React, Angular, Docker, REST APIs, QA automation, XR,
-+ Unity, iOS, Android, web. JRS Code School grad.
++ Unity, iOS, Android, web.
++
++ JRS Code School grad.
 +
 - $ open https://www.linkedin.com/in/joshuapaulsen31
 - $ open https://www.dynepic.com
