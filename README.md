@@ -5,12 +5,12 @@
 + Software Developer II - QA @ Dynepic Inc  |  Founder @ THE RISE COLLECTION
 + Charleston, SC
 +
-+ First iOS app at 15 (A.O.T.C). At 17, Keep On Trucking cracked the App Store
-+ top charts. A decade in—brands, games, and dev tools across iOS, Android,
-+ web, Unity, and Unreal.
++ App Store at 15. A.O.T.C first, then Keep On Trucking hit the top charts at
++ 17. Ten years in—brands, games, dev tools across iOS, Android, web, Unity,
++ and Unreal.
 +
-+ These days: QA automation and XR training platforms at Dynepic, plus
-+ THE RISE COLLECTION (redlightcam®, devKick, controller-chat). JRS Code School
++ These days: QA automation and XR platforms at Dynepic, plus THE RISE
++ COLLECTION—redlightcam®, devKick, controller-chat, and more. JRS Code School
 + grad. Thinks outside the box. Gets it done.
 +
 - $ open https://www.linkedin.com/in/joshuapaulsen31
