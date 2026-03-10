@@ -9,7 +9,8 @@
 + 17. Ten years in—brands, games, dev tools across iOS, Android, web, Unity,
 + and Unreal.
 +
-+ QA and XR at Dynepic. THE RISE COLLECTION on the side. JRS Code School grad.
++ Skills: JavaScript, React, Angular, Docker, REST APIs, QA automation, XR,
++ Unity, iOS, Android, web. JRS Code School grad.
 +
 - $ open https://www.linkedin.com/in/joshuapaulsen31
 - $ open https://www.dynepic.com
