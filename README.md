@@ -9,11 +9,10 @@
 + 17. Ten years in—brands, games, dev tools across iOS, Android, web, Unity,
 + and Unreal.
 +
-+ These days: QA automation and XR platforms at Dynepic, plus THE RISE
-+ COLLECTION—redlightcam®, devKick, controller-chat, and more. JRS Code School
-+ grad. Thinks outside the box. Gets it done.
++ QA and XR at Dynepic. THE RISE COLLECTION on the side. JRS Code School grad.
 +
 - $ open https://www.linkedin.com/in/joshuapaulsen31
+- $ open https://www.dynepic.com
 - $ open https://www.therisecollection.co
 +
 + joshua@machine:~ $
