@@ -5,9 +5,9 @@
 + Software Developer II - QA @ Dynepic Inc  |  Founder @ THE RISE COLLECTION
 + Charleston, SC
 +
-+ App Store at 15. A.O.T.C first, then Keep On Trucking hit the top charts at
-+ 17. Ten years in—brands, games, dev tools across iOS, Android, web, Unity,
-+ and Unreal.
++ Started on the App Store at 15 with A.O.T.C, then shipped Keep On Trucking
++ to the top charts at 17. Ten years in—building brands, games, and dev tools
++ across iOS, Android, web, Unity, and Unreal.
 +
 + Skills: JavaScript, React, Angular, Docker, REST APIs, QA automation, XR,
 + Unity, iOS, Android, web.
