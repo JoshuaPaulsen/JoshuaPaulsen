@@ -2,7 +2,7 @@
 - $ whois JoshuaPaulsen
 +
 + JOSHUA PAULSEN
-+ Software Developer II - QA @ Dynepic Inc  |  Founder @ THE RISE COLLECTION
++ Founder @ THE RISE COLLECTION
 + Charleston, SC
 +
 + Started on the App Store at 15 with A.O.T.C, then shipped Keep On Trucking
@@ -15,7 +15,6 @@
 + JRS Code School grad.
 +
 - $ open https://www.linkedin.com/in/joshuapaulsen31
-- $ open https://www.dynepic.com
 - $ open https://www.therisecollection.co
 +
 + joshua@machine:~ $
